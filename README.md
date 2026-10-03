@@ -22,4 +22,4 @@ Este repositório contém a arquitetura de banco de dados e rotinas de automaç�
 - `/views/`: Consultas consolidadas para alimentar o painel analítico.
 
 ## Status do Projeto
-Em andamento — Próxima etapa: Consolidação de Views SQL analíticas e criação de Dashboard executivo.
+Em andamento — Próxima etapa: Criação de Dashboard executivo.
